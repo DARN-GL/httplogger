@@ -1,6 +1,5 @@
 const express = require("express");
 const chalk = require("chalk");
-const morgan = require("morgan");
 
 const app = express();
 const PORT = 3000;
